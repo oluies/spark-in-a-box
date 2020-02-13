@@ -5,6 +5,10 @@ A simple commandline utility to generate Docker images for testing and developme
 ```
 pip install -e git://github.com/zero323/spark-in-a-box.git@v0.0.9#egg=sparkinabox
 ```
+or with HTTP 
+```
+pip install -e git+http://github.com/zero323/spark-in-a-box.git@v0.0.9#egg=sparkinabox
+```
 
 ## Usage
 
